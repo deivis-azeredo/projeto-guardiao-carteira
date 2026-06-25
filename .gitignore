@@ -1,0 +1,22 @@
+# --- Cibersegurança: Arquivos de Credenciais e Chaves de API ---
+.env
+*.env
+secrets.toml
+credentials.json
+
+# --- Ambientes Virtuais de Desenvolvimento Python ---
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# --- Arquivos do Sistema Operacional e Editores ---
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+desktop.ini
+.DS_Store
