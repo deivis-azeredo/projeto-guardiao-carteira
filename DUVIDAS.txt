@@ -1,0 +1,44 @@
+Duvidas:
+
+conferiri estrutura de pastas
+
+por ser um trabalho que tenho que entregar eu nao teri9a de fazer no hithub deles?
+
+github:
+
+Verificar as estruturas de pasta se esta certa
+
+correta é:
+Plaintext
+projeto-guardiao-carteira/    <-- (Pasta raiz, onde você rodou git init)
+├── .git/                     <-- (Criada automaticamente pelo git init)
+├── venv/                     <-- (SUA PASTA DE AMBIENTE VIRTUAL - IGNORED)
+├── .gitignore                <-- (Arquivo que diz ao git para ignorar a venv)
+├── README.md
+├── requirements.txt
+├── data/
+│   └── fraudes.json
+└── src/
+    └── app.py
+
+nao esta indo esta gerendo erro: de comando e objeto
+No terminal do VS Code, conecte com:
+git remote add origin <link-do-seu-repositorio>
+git branch -M main
+git push -u origin main
+
+eu preciso instalar : pip install -r requirements.txt
+
+
+iniciar o git bash : git init
+
+Validação
+Após salvar o arquivo, vá ao seu terminal no Git Bash e execute os comandos para registrar essa alteração no seu histórico de versionamento:
+
+Verifique o status: git status (ele deve mostrar o arquivo data/fraudes.json em vermelho, como "untracked").
+
+Adicione ao stage: git add data/fraudes.json
+
+Faça o commit seguindo a convenção sugerida:
+git commit -m "feat: add knowledge base for initial fraud types
+warning: unable to access '.gitignore': Permission denied

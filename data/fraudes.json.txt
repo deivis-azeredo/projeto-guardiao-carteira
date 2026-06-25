@@ -1,0 +1,18 @@
+
+
+[
+  {
+    "id": 1,
+    "nome": "ainda nao pensei no Golpe",
+    "sinais": "Quais os sinais que o usuário deve notar?",
+    "orientacao": "O que fazer se for abordado?"
+  },
+  {
+    "id": 2,
+    "nome": "...",
+    "sinais": "...",
+    "orientacao": "..."
+  }
+
+
+]

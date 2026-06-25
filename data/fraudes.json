@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome_golpe": "Phishing via SMS",
+    "sinais": [
+      "Mensagens com links encurtados",
+      "Senso de urgência (ex: 'Sua conta será bloqueada')",
+      "Remetente desconhecido fingindo ser banco"
+    ],
+    "orientacao": "Nunca clique em links. Acesse o aplicativo oficial do seu banco ou o site digitando o endereço manualmente. Bloqueie o remetente."
+  },
+  {
+    "id": 2,
+    "nome_golpe": "Falso Consultor Financeiro",
+    "sinais": [
+      "Promessa de lucros altos em curto prazo",
+      "Solicitação de depósito antecipado (taxas)",
+      "Uso de termos técnicos excessivos para confundir"
+    ],
+    "orientacao": "Verifique o registro da empresa na CVM (Comissão de Valores Mobiliários). Instituições sérias não pedem taxas antecipadas por PIX."
+  },
+  {
+    "id": 3,
+    "nome_golpe": "Engenharia Social (WhatsApp)",
+    "sinais": [
+      "Perfil com foto de familiar em número novo",
+      "Histórias dramáticas solicitando urgência",
+      "Solicitação de PIX para conta de terceiros"
+    ],
+    "orientacao": "Sempre confirme a identidade ligando para o número original do contato. Nunca faça transferências para contas de desconhecidos."
+  }
+]
