@@ -1,0 +1,1 @@
+Este é um assistente de segurança digital integrado ao ecossistema financeiro para prevenir ataques de phishing e fraudes baseadas em URLs maliciosas.

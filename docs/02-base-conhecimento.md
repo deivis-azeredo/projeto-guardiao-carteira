@@ -1,0 +1,1 @@
+A base de conhecimento de modelo é alimentada  em tempo real pelas diretrizes de segurança passadas via contexto e pela capacidade de generalização da API do Gemini para identificar padrões de engenharia social (como domínios falsos e caracteres suspeitos).
